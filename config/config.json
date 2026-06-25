@@ -1,0 +1,10 @@
+{
+  "voiceXPPerMinute": 5,
+
+  "levelRoles": {
+    "5": "ROLE_ID_1",
+    "10": "ROLE_ID_2",
+    "20": "ROLE_ID_3",
+    "30": "ROLE_ID_4"
+  }
+}
